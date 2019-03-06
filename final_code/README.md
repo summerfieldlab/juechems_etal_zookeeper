@@ -5,5 +5,5 @@ This repo provides the data and code to reproduce some of the figure panels. I a
 If you find any bugs or something is missing/does not run on your system, do please let me know so I can correct it.
 
 
-# NB
-Over the coming days (before 30/01/2019) I will be making some changes to make the code more user-friendly, add more comments, and correct some bugs that arise when switching between operating systems and MATLAB versions. If you see this before the end of January, make sure to check back in February 2019 for a more accessible code base.    
+# UPDATES
+Last updated 06/03/2019: user guide update  
